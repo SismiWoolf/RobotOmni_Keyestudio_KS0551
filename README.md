@@ -26,4 +26,9 @@ Différentes difficulties mise en service livré en dehors de mon projet d'expé
 
 
     Possible que Keyestudio échou sur le manque d'un auto-étalonnage, pour prendre un principe simple et donner une vision d'analyse de capacité de déplacement d'un robot.
+
+
+
+
+    J'en reviens au Timer et voir sur le lien https://passionelectronique.fr/introduction-timer-arduino/
     A voir sur quel genre de capteur pour aussi donner une vision d'auto-étalonnage via les varibles, via aussi par exemple avec un potentiomètre numérique et même comme tricher agire sur la tension d'alimentation d'un géophone pouvant atténuer et augumenter la sensibilité comme de 2V à 2,5 (!!!);
